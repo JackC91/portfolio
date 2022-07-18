@@ -5,7 +5,6 @@
     X add contact me section
     X add more tech stack and replace logo links
     X sticky nav bar at top to auto scroll to each section
-    - add dark/light mode toggle
     X finish text
     X get on github
     - deploy (netlify?)

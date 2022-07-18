@@ -1,6 +1,6 @@
 export default function LinkedLogo() {
     return (
-    <a href="https://www.linkedin.com/in/jack-cherry-b082a0242/"
+    <a href=""
     target="_blank"
     rel="noreferrer">
     <img 

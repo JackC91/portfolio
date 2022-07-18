@@ -1,6 +1,6 @@
 export default function EmailLogo() {
     return (
-      <a href="mailto:jackjcherry@hotmail.co.uk">
+      <a href="mailto:">
     <img 
     className="emaillogo" 
     src={require("../../email.png")} 

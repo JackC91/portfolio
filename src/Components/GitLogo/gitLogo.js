@@ -1,6 +1,6 @@
 export default function GitLogo() {
     return (
-      <a href="https://github.com/JackC91"
+      <a href=""
       target="_blank"
       rel="noreferrer">
     <img 

@@ -1,0 +1,136 @@
+:root {
+  --header-text-font: Abril fatface;
+  --main-text-font: Roboto;
+  --main-colour: black;
+  --alt-colour: white;
+}
+
+.App {
+  text-align: left;
+  position: relative;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2em;
+}
+
+.navbar {
+  position: sticky;
+  font-family: var(--header-text-font);
+  justify-content: space-evenly;
+  display: flex;
+  color: var(--main-colour);
+  top: 0;
+  background-color: var(--alt-colour);
+  z-index: 100;
+}
+
+.jack {
+ font-family: var(--header-text-font); 
+ margin-bottom: -1.2em;
+ color: var(--main-colour);
+ font-size: 5em;
+}
+
+.cherry {
+  font-family: var(--header-text-font); 
+  margin-bottom: 0.3em;
+  color: var(--main-colour);
+  font-size: 5em;
+ }
+
+ .tag {
+  font-family: var(--main-text-font);
+  font-weight: 600;
+  border-bottom: 1.5px solid var(--main-colour);
+  color: var(--main-colour);
+  font-size: 1.5em;
+ }
+
+ .techstack {
+  font-family: var(--main-text-font);
+  font-weight: 600;
+  width: 100%;
+  color: var(--main-colour);
+  font-size: 1em;
+  align-items: flex-start;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(5em, 1fr));
+ }
+
+ .about_me {
+ padding-top: 7em;
+}
+
+ .about_title {
+  font-family: var(--header-text-font);
+  font-size: 2em;
+  border-bottom: 1.5px solid var(--main-colour); 
+ }
+
+ .about_body {
+  font-family: var(--main-text-font);
+  font-weight: 550;
+ }
+
+ .project_title {
+  font-family: var(--header-text-font);
+  font-size: 2em;
+  border-bottom: 1.5px solid var(--main-colour);
+  padding-top: 7em;
+ }
+
+ .projects {
+  align-items: flex-start;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  grid-gap: 0.5rem;
+ }
+
+ .projectImage {
+  width: 10em;
+  height: 15em;
+  border-radius: 1em;
+  border-radius: 1em;
+  border: 4px solid var(--main-colour);
+  margin: auto;
+ }
+
+ .projectText {
+  font-family: var(--main-text-font);
+  font-weight: 550;
+  text-align: center;
+ }
+
+ .contact_me {
+  padding-top: 7em;
+ }
+
+ .contact_title {
+  font-family: var(--header-text-font);
+  font-size: 2em;
+  border-bottom: 1.5px solid var(--main-colour); 
+ }
+
+ .contact_body {
+  font-family: var(--main-text-font);
+  font-weight: 550;
+ }
+
+ .contact_logo {
+  padding-top: 1em;
+ }
+
+ .gitlogo {
+  padding-right: 1em;
+ }
+
+ .linkedlogo {
+  filter: brightness(0);
+  padding-right: 0.7em;
+ }
+
+ .emaillogo {
+  height: 33px;
+  width: 33px;
+ }

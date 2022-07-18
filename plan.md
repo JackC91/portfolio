@@ -1,0 +1,12 @@
+## To Do -
+    X organise project div/text into reuseable components
+    X display project section responisvely, if div is big enough go left to right,
+      drop down if not enough space
+    X add contact me section
+    X add more tech stack and replace logo links
+    X sticky nav bar at top to auto scroll to each section
+    - add dark/light mode toggle
+    X finish text
+    - get on github
+    - deploy (netlify?)
+    - github and linkedin links need to be env variables on netlify

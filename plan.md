@@ -7,6 +7,6 @@
     X sticky nav bar at top to auto scroll to each section
     - add dark/light mode toggle
     X finish text
-    - get on github
+    X get on github
     - deploy (netlify?)
-    - github and linkedin links need to be env variables on netlify
+    - github/linkedin/email need to be env variables on netlify

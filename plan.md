@@ -12,7 +12,8 @@
     - hover css events for all links
       X nav bar
       - project cards
-      - contact links
+      X contact links
+    - center contact logos
     - put content in project cards
     - update README
     - deploy (netlify?)

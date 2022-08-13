@@ -125,9 +125,19 @@
   padding-right: 1em;
  }
 
+ .gitlogo:hover, .gitlogo:active {
+  transform: scale(1.1);
+  cursor: pointer;
+ }
+
  .linkedlogo {
   filter: brightness(0);
   padding-right: 0.7em;
+ }
+
+ .linkedlogo:hover, .linkedlogo:active {
+  transform: scale(1.1);
+  cursor: pointer;
  }
 
  .emaillogo {
@@ -135,7 +145,13 @@
   width: 33px;
  }
 
+ .emaillogo:hover, .emaillogo:active {
+  transform: scale(1.1);
+  cursor: pointer;
+ }
+
  .nav-links:hover, .nav-links:active {
   font-size: 150%;
   cursor: pointer;
  }
+

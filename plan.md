@@ -7,7 +7,8 @@
     X sticky nav bar at top to auto scroll to each section
     X finish text
     X get on github
-    - update tab
+    X update tab
+    - update tab logo/favicon
     - hover css events for all links
     - put content in project cards
     - update README

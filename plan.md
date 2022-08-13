@@ -8,7 +8,7 @@
     X finish text
     X get on github
     X update tab
-    - update tab logo/favicon
+    X update tab logo/favicon
     X hover css events for all links
       X nav bar
       X project cards

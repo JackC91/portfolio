@@ -7,5 +7,7 @@
     X sticky nav bar at top to auto scroll to each section
     X finish text
     X get on github
+    - hover css events for all links
+    - put content in project cards
     - deploy (netlify?)
     - github/linkedin/email need to be env variables on netlify

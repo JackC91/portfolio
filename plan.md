@@ -9,12 +9,12 @@
     X get on github
     X update tab
     - update tab logo/favicon
-    - hover css events for all links
+    X hover css events for all links
       X nav bar
-      - project cards
+      X project cards
       X contact links
     - center contact logos
-    - put content in project cards
+    - put content in project cards/create image tag
     - update README
     - deploy (netlify?)
     - github/linkedin/email need to be env variables on netlify

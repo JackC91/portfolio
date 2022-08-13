@@ -96,6 +96,12 @@
   margin: auto;
  }
 
+ .projectImage:hover, .projectImage:active {
+  transform: scale(1.1);
+  box-shadow: 10px 10px lightblue;
+  cursor: pointer;
+ }
+
  .projectText {
   font-family: var(--main-text-font);
   font-weight: 550;

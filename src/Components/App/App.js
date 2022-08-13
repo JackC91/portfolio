@@ -12,7 +12,7 @@ import Contact from '../Contact/contact';
 
 function App() {
   return (
-    <div>
+    <div className='main'>
     <NavBar/>
     <div className="App">
     <Jack/>

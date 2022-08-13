@@ -2,7 +2,12 @@
   --header-text-font: Abril fatface;
   --main-text-font: Roboto;
   --main-colour: black;
-  --alt-colour: white;
+  --alt-colour: #FFFFFA;
+  --font-weight: 600
+}
+
+.main {
+  background-color: var(--alt-colour);
 }
 
 .App {
@@ -12,6 +17,7 @@
   margin-left: auto;
   margin-right: auto;
   padding-top: 2em;
+  background-color: var(--alt-colour);
 }
 
 .navbar {
@@ -23,6 +29,7 @@
   top: 0;
   background-color: var(--alt-colour);
   z-index: 100;
+  font-size: 1.5em;
 }
 
 .jack {
@@ -49,7 +56,7 @@
 
  .techstack {
   font-family: var(--main-text-font);
-  font-weight: 600;
+  font-weight: var(--font-weight);
   width: 100%;
   color: var(--main-colour);
   font-size: 1em;
@@ -70,7 +77,7 @@
 
  .about_body {
   font-family: var(--main-text-font);
-  font-weight: 550;
+  font-weight: var(--font-weight);
  }
 
  .project_title {
@@ -98,18 +105,19 @@
 
  .projectImage:hover, .projectImage:active {
   transform: scale(1.1);
-  box-shadow: 10px 10px lightblue;
+  box-shadow: 10px 10px #B1B19C;
   cursor: pointer;
  }
 
  .projectText {
   font-family: var(--main-text-font);
-  font-weight: 550;
+  font-weight: var(--font-weight);
   text-align: center;
+  padding-top: 1em;
  }
 
  .contact_me {
-  padding-top: 7em;
+  padding-top: 13em;
   text-align: center;
  }
 
@@ -121,12 +129,13 @@
 
  .contact_body {
   font-family: var(--main-text-font);
-  font-weight: 550;
+  font-weight: var(--font-weight);
   text-align: left;
  }
 
  .contact_logo {
   padding-top: 1em;
+  padding-bottom: 6.5em;
  }
 
  .gitlogo {

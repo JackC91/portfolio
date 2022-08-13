@@ -9,5 +9,6 @@
     X get on github
     - hover css events for all links
     - put content in project cards
+    - update README
     - deploy (netlify?)
     - github/linkedin/email need to be env variables on netlify

@@ -134,3 +134,8 @@
   height: 33px;
   width: 33px;
  }
+
+ .nav-links:hover, .nav-links:active {
+  font-size: 150%;
+  cursor: pointer;
+ }

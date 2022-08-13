@@ -13,7 +13,7 @@
       X nav bar
       X project cards
       X contact links
-    - center contact logos
+    X center contact logos
     - put content in project cards/create image tag
     - update README
     - deploy (netlify?)

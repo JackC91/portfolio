@@ -110,6 +110,7 @@
 
  .contact_me {
   padding-top: 7em;
+  text-align: center;
  }
 
  .contact_title {
@@ -121,6 +122,7 @@
  .contact_body {
   font-family: var(--main-text-font);
   font-weight: 550;
+  text-align: left;
  }
 
  .contact_logo {

@@ -10,6 +10,9 @@
     X update tab
     - update tab logo/favicon
     - hover css events for all links
+      - nav bar
+      - project cards
+      - contact links
     - put content in project cards
     - update README
     - deploy (netlify?)

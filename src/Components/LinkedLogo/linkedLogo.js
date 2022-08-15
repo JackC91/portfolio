@@ -1,6 +1,6 @@
 export default function LinkedLogo() {
     return (
-    <a href=""
+    <a href={process.env.LINKED_IN}
     target="_blank"
     rel="noreferrer">
     <img 

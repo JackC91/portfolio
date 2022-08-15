@@ -17,4 +17,4 @@
     - put content in project cards/create image tag
     X update README
     - deploy (netlify?)
-    - github/linkedin/email need to be env variables on netlify
+    X github/linkedin/email need to be env variables on netlify

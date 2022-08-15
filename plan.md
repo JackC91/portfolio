@@ -16,5 +16,6 @@
     X center contact logos
     - put content in project cards/create image tag
     X update README
-    - deploy (netlify?)
+    X deploy (netlify?)
     X github/linkedin/email need to be env variables on netlify
+    - title animation

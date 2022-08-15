@@ -15,6 +15,7 @@
       X contact links
     X center contact logos
     - put content in project cards/create image tag
+      - deploy 2 of the projects
     X update README
     X deploy (netlify?)
     X github/linkedin/email need to be env variables on netlify

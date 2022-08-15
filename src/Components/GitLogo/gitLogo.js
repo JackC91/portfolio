@@ -1,6 +1,6 @@
 export default function GitLogo() {
     return (
-      <a href={process.env.GITHUB}
+      <a href={process.env.REACT_APP_GITHUB}
       target="_blank"
       rel="noreferrer">
     <img 

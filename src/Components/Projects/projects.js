@@ -5,7 +5,7 @@ const text =
 
 const weekNineText = "A topic tracking and proficiency app that was developed by a team of four bootcampers over the course of a week with School of Code, the image above will take you to the deployed app, both front and back end repos can be accessed via my GitHub page.";
 
-const weekTwelveText = "As part of a team of six this app was built over the course of four weeks for our final project in the School of Code Bootcamp 12. The picture above will take you to the fully deployed version of the app, the fron and back end repos can be found on my personal GitHub account."
+const weekTwelveText = "As part of a team of six this app was built over the course of four weeks for our final project in the School of Code Bootcamp 12. The picture above will take you to the fully deployed version of the app, the front and back end repos can be found on my personal GitHub account."
 
 export default function Projects() {
   return (

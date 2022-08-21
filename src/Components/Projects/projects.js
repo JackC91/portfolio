@@ -13,7 +13,7 @@ export default function Projects() {
       <p className="project_title">projects.</p>
       <div className="projects">
         <ProjectCard text={weekNineText} href="" src={require("../../wk9.png")} alt="screenshot of week 9 app" />
-        <ProjectCard text={weekTwelveText} href="https://care-full.netlify.app/" src={require("../../Care-full.png")} alt="screenshot of week 12 app"/>
+        <ProjectCard text={weekTwelveText} href={process.env.CARE_FULL} src={require("../../Care-full.png")} alt="screenshot of week 12 app"/>
         <ProjectCard text={text} />
       </div>
     </div>

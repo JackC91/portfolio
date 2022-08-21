@@ -12,7 +12,7 @@ export default function Projects() {
     <div id="project">
       <p className="project_title">projects.</p>
       <div className="projects">
-        <ProjectCard text={weekNineText} href="" src={require("../../wk9.png")} alt="screenshot of week 9 app" />
+        <ProjectCard text={weekNineText} href={process.env.REACT_APP_WEEK_NINE} src={require("../../wk9.png")} alt="screenshot of week 9 app" />
         <ProjectCard text={weekTwelveText} href={process.env.REACT_APP_CARE_FULL} src={require("../../Care-full.png")} alt="screenshot of week 12 app"/>
         <ProjectCard text={text} />
       </div>

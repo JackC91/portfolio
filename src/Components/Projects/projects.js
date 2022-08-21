@@ -11,7 +11,7 @@ export default function Projects() {
       <p className="project_title">projects.</p>
       <div className="projects">
         <ProjectCard text={weekNineText} src={require("../../wk9.png")} alt="screenshot of week 9 app" />
-        <ProjectCard text={text} src={require("../../Care-full.jpg")} alt="screenshot of week 12 app"/>
+        <ProjectCard text={text} src={require("../../Care-full.png")} alt="screenshot of week 12 app"/>
         <ProjectCard text={text} />
       </div>
     </div>
